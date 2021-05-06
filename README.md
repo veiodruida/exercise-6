@@ -13,6 +13,8 @@
     - `make benchmark-output`
     - `make benchmark-traits`
 
+Solution: https://github.com/SubstrateDevAcademy/exercise-6/commit/8a4acdc68ffec9dbd73805d3e65645f694f6303c
+
 ---
 
 NOTES:
